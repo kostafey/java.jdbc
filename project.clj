@@ -1,4 +1,4 @@
-(defproject org.clojars.kostafey/java.jdbc "0.7.9-SNAPSHOT"
+(defproject org.clojars.kostafey/java.jdbc "0.7.10-SNAPSHOT"
   :description "JDBC from Clojure (formerly clojure.contrib.sql)"
   :url "https://github.com/clojure/java.jdbc"
   :license {:name "Eclipse Public License 1.0"
